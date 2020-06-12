@@ -66,3 +66,4 @@ predict.py -> output coeffiecient and interception of SVM and logistic regressio
 raw_square_cube.py -> output coeffiecient and interception of SVM and logistic regression  from data join with cube(data) and square(data)
 
 pytorch.py -> different training model we didn't use at last
+.
